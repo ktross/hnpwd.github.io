@@ -16,6 +16,12 @@
   :hnuid "jgc"
   :bio "Original writer of POPFile.  Member of the board of directors at Cloudflare.")
 
+ (:name "Karl Knechtel"
+  :site "https://zahlman.github.io/"
+  :feed "https://zahlman.github.io/rss.xml"
+  :about "https://zahlman.github.io/pages/about/"
+  :bio "Tools developer and Python educator.")
+
  (:name "Sean Goedecke"
   :site "https://www.seangoedecke.com/"
   :feed "https://www.seangoedecke.com/rss.xml"
