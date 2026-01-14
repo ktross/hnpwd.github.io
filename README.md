@@ -43,7 +43,7 @@ requesting its inclusion in the directory:
     over the site's design.
 
  2. Visit https://news.ycombinator.com/from?site=example.com and
-    replace `example.com` in the URL the website's domain. Review the
+    replace `example.com` in the URL the website's domain.  Review the
     posts from the website with the highest point totals.  The website
     qualifies if five or fewer posts have a combined total of at least
     100 points.
@@ -63,8 +63,8 @@ placeholder websites with little content of value to the community.
 
 If a website does not satisfy the above criteria but you think it is
 still quite interesting (for example, it has interesting posts, games
-etc.), please make a request to add it anyway. If it looks interesting
-enough, we may still add it.
+etc.), please make a request to add it anyway.  If it looks
+interesting enough, we may still add it.
 
 
 ## Add

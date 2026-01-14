@@ -23,6 +23,12 @@
   :hnuid "zahlman"
   :bio "Tools developer and Python educator.")
 
+ (:name "Nicolas Chagnet"
+  :site "https://nchagnet.pages.dev/"
+  :feed "https://nchagnet.pages.dev/rss.xml"
+  :hnuid "nchagnet"
+  :bio "Writes about physics, technology and data science.")
+
  (:name "Sean Goedecke"
   :site "https://www.seangoedecke.com/"
   :feed "https://www.seangoedecke.com/rss.xml"
